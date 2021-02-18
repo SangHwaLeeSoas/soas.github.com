@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "이상화"
   avatar           : ###"" # 프로필 이미지
-  bio              : "기억 저장소"
+  bio              : "개발로그"
   location         : "Republic of Korea"
   email            : "sagnwha0924@gmail.com"
   links:
@@ -113,9 +113,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "###"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "#"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "#"
